@@ -68,26 +68,53 @@ export YESHELLO_API_KEY=yh_key_YOUR_KEY
 yeshello-mcp
 ```
 
-## What it does
+## What is YesHello?
 
-Give AI a website URL, and it builds your complete digital business card in under 2 minutes.
+More than a card. Simpler than a website. YesHello replaces the website, the link-in-bio, the form builder, the reviews widget, and the NFC card - all in one platform.
 
-- **63 tools** - cards, forms, listings, media, browser control, guided tours
-- **Build from URL** - AI scrapes your website and creates a card with your real content
-- **Live editing** - watch the AI build your card in real-time in the browser
-- **Stock photos** - search and import from Pexels
-- **3 themes** - Professional, Cinematic, Wave
-- **20+ field types** - hero, about, gallery, FAQ, social links, action buttons, video, services, and more
+**The problem:** You need a professional online presence but a website costs thousands, takes weeks, and needs a developer for every update. Link-in-bio tools look cheap and have zero SEO, no lead capture, no services.
 
-## Example
+**The solution:** Tell AI to build it from your website URL. In 2 minutes you get a mobile-first page with your services, portfolio, reviews, lead capture forms, booking, contact buttons, and a custom domain - ranking on Google from day one.
 
-After setup, just ask your AI:
+## What your AI can do with 63 tools
+
+**Build your presence from scratch:**
+- Scrape your website and extract your name, bio, services, contact info, social links
+- Search and import professional stock photos from Pexels
+- Create a published digital business card with one conversation
+- Set up lead capture forms with webhook delivery to your CRM
+- Create service listings with pricing and call-to-action buttons
+
+**Live editing - the killer feature:**
+- Open the builder in your browser, split screen with your AI chat
+- Watch every field appear, every image load, every piece of text type itself in
+- The AI builds your card live in front of your eyes - like watching a designer work
+
+**Guide you through the platform:**
+- AI highlights elements on your screen with tooltips
+- Clicks through tabs and menus to show you features
+- Fills input fields and navigates pages for you
+
+## Try it
 
 ```
 "Build me a digital business card from https://mywebsite.com"
 ```
+```
+"Create a contact form with name, email, phone, and message"
+```
+```
+"Add a services listing for my photography business with 3 packages"
+```
+```
+"Show me around the card builder"
+```
 
-The AI will scrape your website, find images, and create a published card with your name, bio, services, contact info, and social links.
+## Who it's for
+
+Freelancers, consultants, photographers, realtors, plumbers, coaches, agencies, restaurants, salons - anyone who needs a professional online presence without a developer or agency.
+
+**Free plan available.** No credit card required.
 
 ## How it works
 
@@ -98,7 +125,7 @@ This CLI starts a local MCP server that proxies all tool calls to `https://yeshe
 - [Website](https://yeshello.app)
 - [Documentation](https://yeshello.app/docs/mcp-connector)
 - [Get API Key](https://yeshello.app/dashboard/settings/ai-api)
-- [GitHub](https://github.com/yeshello-app/yeshello-mcp)
+- [GitHub](https://github.com/yeshello-app/yeshello-mcp-npm)
 - [Privacy Policy](https://yeshello.app/page/privacy-policy)
 
 ## License
