@@ -1,6 +1,6 @@
 {
   "name": "yeshello-mcp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "MCP server for YesHello - digital business cards, lead capture forms, and service listings. AI builds from a URL in minutes.",
   "type": "module",
   "bin": {

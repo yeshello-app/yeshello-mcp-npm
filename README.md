@@ -95,7 +95,17 @@ More than a card. Simpler than a website. YesHello replaces the website, the lin
 - Clicks through tabs and menus to show you features
 - Fills input fields and navigates pages for you
 
-## Try it
+## How to use
+
+After setup, just talk to your AI like normal. No special commands. No syntax. Just say what you want:
+
+1. Open **Claude Desktop**, **Cursor**, **VS Code**, or any MCP client you configured
+2. Start a new conversation
+3. Ask for what you need in plain English
+
+That's it. The AI knows YesHello is connected and will use the right tools automatically. You don't need to mention "YesHello" or "MCP" - just describe what you want.
+
+## Try these
 
 ```
 "Build me a digital business card from https://mywebsite.com"
