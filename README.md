@@ -5,7 +5,9 @@
 <h1 align="center">yeshello-mcp</h1>
 
 <p align="center">
-  <strong>MCP server for YesHello - digital business cards, lead capture forms, and service listings</strong>
+  <strong>AI-Powered Digital Business Card Builder</strong><br/>
+  Create professional digital business cards, lead capture forms, and service listings from any website URL.<br/>
+  Mobile-first. SEO-optimised. NFC-ready. Custom domains. Google Reviews. Team management.
 </p>
 
 <p align="center">

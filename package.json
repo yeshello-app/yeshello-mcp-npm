@@ -1,7 +1,7 @@
 {
   "name": "yeshello-mcp",
-  "version": "1.0.3",
-  "description": "MCP server for YesHello - digital business cards, lead capture forms, and service listings. AI builds from a URL in minutes.",
+  "version": "1.0.4",
+  "description": "AI-powered digital business card builder - create professional business cards, lead capture forms, and service listings from any website URL. Mobile-first, SEO-optimised, NFC-ready. MCP server with 63 tools.",
   "type": "module",
   "bin": {
     "yeshello-mcp": "./bin/yeshello-mcp.mjs"
